@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"id": "",
+			"type": "label",
+			"data": {
+				"value": "Paramètres de la page:",
+				"isr": false,
+				"css": "font-weight: bold",
+				"margintop": "10",
+				"labeltext": "",
+				"labelposition": "left",
+				"helptext": "",
+				"helpposition": "bottom",
+				"fontsize": "20",
+				"fontfamily": "arial",
+				"fontcolor": "#000000"
+			}
+		},
+		{
+			"id": "params",
+			"type": "label",
+			"data": {
+				"value": "(en attente)",
+				"isr": false,
+				"css": "",
+				"margintop": "10",
+				"labeltext": "",
+				"labelposition": "left",
+				"helptext": "",
+				"helpposition": "bottom",
+				"fontsize": "14",
+				"fontfamily": "arial",
+				"fontcolor": "#000000"
+			}
+		}
+	],
+	"language": "r",
+	"submitbutton": true
+}

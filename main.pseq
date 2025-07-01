@@ -1,0 +1,43 @@
+{
+	"steps": [
+		{
+			"id": "start",
+			"name": "Start",
+			"type": "start",
+			"x": 130,
+			"y": 130,
+			"uuid": 1,
+			"target": 3
+		},
+		{
+			"uuid": 3,
+			"file": "app.R",
+			"id": "app.R",
+			"name": "app.R",
+			"type": "rscript",
+			"x": 280,
+			"y": 300,
+			"target": 6
+		},
+		{
+			"x": 460,
+			"y": 550,
+			"uuid": 4,
+			"file": "",
+			"id": "",
+			"name": "",
+			"target": "",
+			"type": "end"
+		},
+		{
+			"uuid": 6,
+			"file": "ui.pgui",
+			"id": "ui",
+			"name": "ui",
+			"type": "gui",
+			"x": 380,
+			"y": 420,
+			"target": 4
+		}
+	]
+}

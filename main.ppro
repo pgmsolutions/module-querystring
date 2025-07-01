@@ -1,0 +1,18 @@
+{
+	"name": "Query String demo",
+	"company": "PGM Solutions",
+	"description": "",
+	"start": "main.pseq",
+	"wd": "program",
+	"logo": "",
+	"css": "",
+	"list": "sidebar",
+	"rconsole": "r",
+	"outputfolder": "{{name}}_{{datetime}}",
+	"history": [],
+	"created": "2025-07-01T15:24:40+02:00",
+	"version": "4.6.1",
+	"customFiles": [
+		"modules/querystring/main.js"
+	]
+}

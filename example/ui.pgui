@@ -4,7 +4,7 @@
 			"id": "",
 			"type": "label",
 			"data": {
-				"value": "Paramètres de la page:",
+				"value": "Page parameters:",
 				"isr": false,
 				"css": "font-weight: bold",
 				"margintop": "10",
@@ -12,7 +12,7 @@
 				"labelposition": "left",
 				"helptext": "",
 				"helpposition": "bottom",
-				"fontsize": "20",
+				"fontsize": "24",
 				"fontfamily": "arial",
 				"fontcolor": "#000000"
 			}
@@ -21,13 +21,13 @@
 			"id": "params",
 			"type": "label",
 			"data": {
-				"value": "(en attente)",
+				"value": "(waiting...)",
 				"isr": false,
 				"css": "",
 				"margintop": "10",
 				"labeltext": "",
 				"labelposition": "left",
-				"helptext": "",
+				"helptext": "Only work in RPGM Server on links.",
 				"helpposition": "bottom",
 				"fontsize": "14",
 				"fontfamily": "arial",

@@ -11,7 +11,7 @@
 		},
 		{
 			"uuid": 3,
-			"file": "app.R",
+			"file": "example/app.R",
 			"id": "app.R",
 			"name": "app.R",
 			"type": "rscript",
@@ -31,7 +31,7 @@
 		},
 		{
 			"uuid": 6,
-			"file": "ui.pgui",
+			"file": "example/ui.pgui",
 			"id": "ui",
 			"name": "ui",
 			"type": "gui",

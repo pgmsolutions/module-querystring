@@ -2,7 +2,7 @@
 	"name": "Query String demo",
 	"company": "PGM Solutions",
 	"description": "",
-	"start": "main.pseq",
+	"start": "example/main.pseq",
 	"wd": "program",
 	"logo": "",
 	"css": "",
